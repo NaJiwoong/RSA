@@ -1,0 +1,17 @@
+< RESULT FOR RSA > 
+20170201 NaJiwoong 
+
+ < CASE 1 RESULT > 
+
+Plain Text: 1234
+Encryption: 4854131
+Decryption: 1234
+
+----------------------------------------------
+
+
+ < CASE 2 RESULT > 
+
+Plain Text: 1234567
+Encryption: 102742925899186872
+Decryption: 1234567
