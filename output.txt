@@ -3,8 +3,12 @@
 
  < CASE 1 RESULT > 
 
+N: 6012707
+phi(n): 6007800
+Encyption key: 5237437
+Decyption key: 686173
 Plain Text: 1234
-Encryption: 4854131
+Encryption: 4347675
 Decryption: 1234
 
 ----------------------------------------------
@@ -12,6 +16,10 @@ Decryption: 1234
 
  < CASE 2 RESULT > 
 
+N: 211463707796206571
+phi(n): 211463706672030192
+Encyption key: 837857924236943
+Decyption key: 207282357053768447
 Plain Text: 1234567
-Encryption: 102742925899186872
+Encryption: 196833874379389093
 Decryption: 1234567

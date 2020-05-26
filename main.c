@@ -59,6 +59,11 @@ int main(void){
 	fprintf(fp, "20170201 NaJiwoong \n");
 
 	fprintf(fp, "\n < CASE 1 RESULT > \n\n");
+	
+	fprintf(fp, "N: %li\n", n1);
+	fprintf(fp, "phi(n): %li\n", N1);
+	fprintf(fp, "Encyption key: %li\n", e1);
+	fprintf(fp, "Decyption key: %li\n", d1);
 	fprintf(fp, "Plain Text: %li\n", M1);
 	fprintf(fp, "Encryption: %li\n", C1);
 	fprintf(fp, "Decryption: %li\n", D1);
@@ -74,6 +79,11 @@ int main(void){
 	D2 = decrypt(C2, d2, n2);
 
 	fprintf(fp, "\n < CASE 2 RESULT > \n\n");
+	
+	fprintf(fp, "N: %li\n", n2);
+	fprintf(fp, "phi(n): %li\n", N2);
+	fprintf(fp, "Encyption key: %li\n", e2);
+	fprintf(fp, "Decyption key: %li\n", d2);
 	fprintf(fp, "Plain Text: %li\n", M2);
 	fprintf(fp, "Encryption: %li\n", C2);
 	fprintf(fp, "Decryption: %li\n", D2);
